@@ -1,57 +1,52 @@
 [
-   {
-      "name":"Ada Lovelace",
-      "quote":"That brain of mine is something more than merely mortal, as time will show.",
-      "contributor":"KareceA"
-   },
-   {
-      "name":"El-Karece",
-      "quote":"Marriage is basically Git. You commit, you merge, and you resolve conflict.",
-      "contributor":"KareceA"
-   },
-   {
-      "name":"El-Karece",
-      "quote":"Marriage is basically Git. You commit, you merge, and you resolve conflict.",
-      "contributor":"KareceA"
-   },
-   {
-      "name":"Grace Hopper",
-      "quote":"The most dangerous phrase in the language is 'We've always done it this way.'",
-      "contributor":"mildthrone"
-   },
-   {
-      "name":"Alan Turing",
-      "quote":"We can only see a short distance ahead, but we can see plenty there that needs to be done.",
-      "contributor":"mildthrone"
-   },
-   {
-     "name":"Buddha",
-     "quote":"Peace comes from within. Do not seek it without",
-     "contributor":"makpalu"
-   },
-   {
-     "name" : "Maya Angelou",
-      "quote" : "Still I Rise",
-      "contributor": "El-Karece"
-   },
-   {
-      "name": "Confucius",
-      "quote": "The beginning of wisdom is calling things by their proper name",
-      "contributor": "Crispin"
-   },
-   {
-      "name" : "Martin Luther King",
-      "quote" : "I have a dream",
-      "contributor": "cedricbansah"
-   },
   {
-      "name" : "Paulo Coelho",
-      "quote" : "When you want something, all the universe conspires in helping you achieve it",
-      "contributor": "Ubaida"
+    "name": "Ada Lovelace",
+    "quote": "That brain of mine is something more than merely mortal, as time will show.",
+    "contributor": "KareceA"
   },
-   {
-      "name" : "Maya Angelou",
-      "quote" : "If you don't like something, change it. If you can't change it, change your attitude",
-      "contributor": "El-Karece"
-   },  
+  {
+    "name": "El-Karece",
+    "quote": "Marriage is basically Git. You commit, you merge, and you resolve conflict.",
+    "contributor": "KareceA"
+  },
+  {
+    "name": "Grace Hopper",
+    "quote": "The most dangerous phrase in the language is 'We've always done it this way.'",
+    "contributor": "mildthrone"
+  },
+  {
+    "name": "Alan Turing",
+    "quote": "We can only see a short distance ahead, but we can see plenty there that needs to be done.",
+    "contributor": "mildthrone"
+  },
+  {
+    "name": "Buddha",
+    "quote": "Peace comes from within. Do not seek it without.",
+    "contributor": "makpalu"
+  },
+  {
+    "name": "Maya Angelou",
+    "quote": "Still I rise.",
+    "contributor": "El-Karece"
+  },
+  {
+    "name": "Confucius",
+    "quote": "The beginning of wisdom is calling things by their proper name.",
+    "contributor": "Crispin"
+  },
+  {
+    "name": "Martin Luther King",
+    "quote": "I have a dream.",
+    "contributor": "cedricbansah"
+  },
+  {
+    "name": "Paulo Coelho",
+    "quote": "When you want something, all the universe conspires in helping you achieve it.",
+    "contributor": "Ubaida"
+  },
+  {
+    "name": "Maya Angelou",
+    "quote": "If you don't like something, change it. If you can't change it, change your attitude.",
+    "contributor": "El-Karece"
+  }
 ]
