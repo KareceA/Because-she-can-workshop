@@ -1,18 +1,27 @@
 [
-    {
-      "name": "Ada Lovelace",
-      "quote": "That brain of mine is something more than merely mortal, as time will show.",
-      "contributor": "KareceA"
-    },
-    {
-        "name": "El-Karece",
-        "quote": "Marriage is basically Git. You commit, you merge, and you resolve conflict.",
-        "contributor": "KareceA"
-      },
-      {
-        "name": "El-Karece",
-        "quote": "Marriage is basically Git. You commit, you merge, and you resolve conflict.",
-        "contributor": "KareceA"
-      }
-  ]
-  
+   {
+      "name":"Ada Lovelace",
+      "quote":"That brain of mine is something more than merely mortal, as time will show.",
+      "contributor":"KareceA"
+   },
+   {
+      "name":"El-Karece",
+      "quote":"Marriage is basically Git. You commit, you merge, and you resolve conflict.",
+      "contributor":"KareceA"
+   },
+   {
+      "name":"El-Karece",
+      "quote":"Marriage is basically Git. You commit, you merge, and you resolve conflict.",
+      "contributor":"KareceA"
+   },
+   {
+      "name":"Grace Hopper",
+      "quote":"The most dangerous phrase in the language is 'We've always done it this way.'",
+      "contributor":"mildthrone"
+   },
+   {
+      "name":"Alan Turing",
+      "quote":"We can only see a short distance ahead, but we can see plenty there that needs to be done.",
+      "contributor":"mildthrone"
+   }
+]
