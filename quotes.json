@@ -52,5 +52,9 @@
  {  "name" : " Francis Bacon",
       "quote" : "Knowledge is power.",
       "contributor": "Anna-Sandra"
-   }    
+   },
+   {  "name" : " Oscar Wilde",
+      "quote" : "Be yourself, everybody else is taken.",
+      "contributor": "Kweku Andoh"
+   } 
 ]
